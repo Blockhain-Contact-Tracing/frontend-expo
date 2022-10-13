@@ -1,5 +1,5 @@
 import React from 'react';
-import { FlatList, Text, View, ScrollView, Image } from 'react-native';
+import { Text, View, ScrollView, Image } from 'react-native';
 
 const imgStyle={
   width:"100%", height:"300%", border: "1px solid"
