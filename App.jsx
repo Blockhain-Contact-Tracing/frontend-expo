@@ -8,7 +8,7 @@ import Home from './components/Home';
 import Resources from './components/Resources';
 import Media from './components/Media';
 import Updates from './components/Updates';
-import LoginPage from './components/LoginPage.js'
+import LoginPage from './components/LoginPage'
 
 function SettingsScreen() {
   return (

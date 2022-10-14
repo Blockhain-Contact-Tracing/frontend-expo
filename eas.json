@@ -10,11 +10,6 @@
     "preview": {
       "distribution": "internal"
     },
-    "production": {
-      "android": {
-        "buildType": "app-bundle",
-        "image": "latest"
-      }
-    }
-  }
+    "production": {}
+}
 }
